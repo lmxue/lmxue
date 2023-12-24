@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Liumeng Xue is a Postdoctoral Researcher at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), working with Prof. [Haizhou Li](https://colips.org/~eleliha/) and Prof. [Zhizheng Wu](https://drwuz.com/). 
 
-She received her Ph.D. degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), Xian, China, supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/). 
+She received her Ph.D. degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), Xi'an, China, supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/). 
 
 During her studies, she performed research at Microsoft (2019-2020, 2021-2022), Tencent AI Lab (2021-2022) and JD AI Lab (2018-2019). 
 
